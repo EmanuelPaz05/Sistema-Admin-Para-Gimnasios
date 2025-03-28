@@ -25,7 +25,9 @@ Bootstrap
 
 📷 Capturas
 
-![image](https://github.com/user-attachments/assets/c362242f-31ab-49c6-99f8-5ed58e4e0bae) ![image](https://github.com/user-attachments/assets/95896dbf-2046-421a-8d6b-f816fccb8a0d) ![image](https://github.com/user-attachments/assets/0538d4d7-46a0-4cea-a7fe-6851761430c4) ![image](https://github.com/user-attachments/assets/f3cc6ba1-4740-409e-bb31-088ec07c20ae) ![image](https://github.com/user-attachments/assets/fd03cd9f-a72a-40cb-8e2a-504b400f15d5)
+<img src="https://github.com/user-attachments/assets/c362242f-31ab-49c6-99f8-5ed58e4e0bae" width="600">
+
+![image]() ![image](https://github.com/user-attachments/assets/95896dbf-2046-421a-8d6b-f816fccb8a0d) ![image](https://github.com/user-attachments/assets/0538d4d7-46a0-4cea-a7fe-6851761430c4) ![image](https://github.com/user-attachments/assets/f3cc6ba1-4740-409e-bb31-088ec07c20ae) ![image](https://github.com/user-attachments/assets/fd03cd9f-a72a-40cb-8e2a-504b400f15d5)
 
 
 📩 Contacto
