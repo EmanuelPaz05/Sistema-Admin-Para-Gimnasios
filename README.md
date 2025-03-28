@@ -8,7 +8,7 @@ MySQL
 Axios
 Bootstrap
 
-![image](https://github.com/user-attachments/assets/6aab11ae-34dc-4c66-9bff-666d724420b1)
+![image](https://github.com/user-attachments/assets/007a045a-b6a4-453b-a5cb-bb880eae6373)
 
 
 ✨ Características
